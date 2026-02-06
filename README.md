@@ -513,3 +513,7 @@ Part 6 is worth 2 points, and the rest of the lab the other 2 points.
 ## Tweets by Country (MapReduce)
 
 ![Tweets by Country](images/country_code_mapreduce.png)
+
+## US Tweet Languages (Top 20)
+
+![US Languages Top 20](images/uslang-top20.png)
